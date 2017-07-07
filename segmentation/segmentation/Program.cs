@@ -17,7 +17,8 @@ namespace segmentation
         public static void Main(string[] args)
         {
             ListDict = ReadTextFileToList(System.Environment.CurrentDirectory + "//conf//dict.txt");
-            ListOutput = segmentaionCN.SegMMDouble("我是一个医生",ref ListDict);
+            //ListOutput = segmention.doSegBidirectional("我是一个医生",ref ListDict);
+            ListOutput = segmentaionCN.doSegBidirectional("我是一个医生", ref ListDict);
             foreach (string e in ListOutput)
             {
                 Console.WriteLine("{0}", e.ToString());
