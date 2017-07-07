@@ -8,15 +8,15 @@
 语言：C#
 
 ## 接口说明
-`List<string> SegMM(string inputStr, ref List<string> wordList, bool leftToRight, int maxLength)`
+`List<string> doSegSingalModel(string inputStr, ref List<string> dictList, int segModel, int maxLength)`
 inputStr：要进行分词的字符串
-wordList：词典
-leftToRight：true为从左到右分词，false为从右到左分词
-maxLength：每个分词的最大长度
+dictList：词典
+segModel：0为从左到右分词，1为从右到左分词，默认：正向
+maxLength：每个分词的最大长度，默认：7
 
-`public List<string> SegMMDouble(string inputStr, ref List<string> wordList)`
+`public List<string> doSegBidirectional(string inputStr, ref List<string> dictList)`
 inputStr：要进行分词的字符串
-wordList：词典
+dictList：词典
 
 ## 使用说明
 仓库包括2个工程文件和1个.dll文件，其中SegmentCN是用于生成.dll文件的程序，segmentation是测试程序
