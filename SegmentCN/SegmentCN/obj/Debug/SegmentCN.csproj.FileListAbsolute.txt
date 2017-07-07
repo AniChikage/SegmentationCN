@@ -1,0 +1,4 @@
+F:\WorkStation\other\SegmentCN\SegmentCN\bin\Debug\SegmentCN.dll
+F:\WorkStation\other\SegmentCN\SegmentCN\bin\Debug\SegmentCN.pdb
+F:\WorkStation\other\SegmentCN\SegmentCN\obj\Debug\SegmentCN.dll
+F:\WorkStation\other\SegmentCN\SegmentCN\obj\Debug\SegmentCN.pdb
