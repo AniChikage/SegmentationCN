@@ -14,7 +14,7 @@
 * segModel：0为从左到右分词，1为从右到左分词，默认：正向
 * maxLength：每个分词的最大长度，默认：7
 
-`public List<string> doSegBidirectional(string inputStr, ref List<string> dictList)`
+`List<string> doSegBidirectional(string inputStr, ref List<string> dictList)`
 * inputStr：要进行分词的字符串
 * dictList：词典
 
@@ -24,5 +24,3 @@
 >1. 在使用前，将segmentation应用程序目录下的conf文件夹拷贝至自己的程序下面，conf中包含字典文件，可以根据自己的需要进行配置
 >2. 将SegmentCN.dll导入自己的工程中
 >3. 进行调用，定义`SegmentationCN segmentationCN = new SegmentationCN();`，然后对应接口进行调用即可，具体使用可以参照示例程序
-
-.
