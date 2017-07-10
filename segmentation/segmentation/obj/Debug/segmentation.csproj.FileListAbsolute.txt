@@ -6,3 +6,11 @@ F:\WorkStation\other\segmentation\segmentation\obj\Debug\segmentation.exe
 F:\WorkStation\other\segmentation\segmentation\obj\Debug\segmentation.pdb
 F:\WorkStation\other\segmentation\segmentation\bin\Debug\SegmentCN.dll
 F:\WorkStation\other\segmentation\segmentation\bin\Debug\SegmentCN.pdb
+F:\WorkStation\SegmentationCN\segmentation\segmentation\bin\Debug\segmentation.exe.config
+F:\WorkStation\SegmentationCN\segmentation\segmentation\bin\Debug\segmentation.exe
+F:\WorkStation\SegmentationCN\segmentation\segmentation\bin\Debug\segmentation.pdb
+F:\WorkStation\SegmentationCN\segmentation\segmentation\bin\Debug\SegmentCN.dll
+F:\WorkStation\SegmentationCN\segmentation\segmentation\bin\Debug\SegmentCN.pdb
+F:\WorkStation\SegmentationCN\segmentation\segmentation\obj\Debug\segmentation.csprojResolveAssemblyReference.cache
+F:\WorkStation\SegmentationCN\segmentation\segmentation\obj\Debug\segmentation.exe
+F:\WorkStation\SegmentationCN\segmentation\segmentation\obj\Debug\segmentation.pdb
