@@ -4,8 +4,8 @@
 程序用于中文语句的分词，实现基于最大匹配算法的前向、后向和双向分词技术，并提供了接口，具体下面介绍。
 
 ## 环境
-软件要求：Visual Studio 2013及以上版本
-语言：C#
+>. 软件要求：Visual Studio 2013及以上版本
+>. 语言：C#
 
 ## 接口说明
 `List<string> doSegSingalModel(string inputStr, ref List<string> dictList, int segModel, int maxLength)`
